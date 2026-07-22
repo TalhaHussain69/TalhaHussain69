@@ -74,7 +74,7 @@ function buildCard(repo) {
   const forks = repo.forks_count ?? 0;
 
   return `
-<table width="100%" cellpadding="12" cellspacing="0" border="0">
+<table width="100%" cellpadding="4" cellspacing="0" border="0">
 <tr>
 <td>
 
@@ -97,7 +97,7 @@ function buildCard(repo) {
 }
 
 function buildSection(repos) {
-  const cards = repos.map(buildCard).join("<br><br>");
+  const cards = repos.map(buildCard).join("<br>");
 
   return `<!--START_SECTION:projects-->
 <div align="center">
