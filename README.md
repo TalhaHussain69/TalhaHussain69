@@ -76,76 +76,8 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### 🤖 Adeeb Technology Lab
-
-Android Application
-
-<a href="https://github.com/AdeebTechLab/Adeeb_Technology_Lab-App">
-
-<img src="https://img.shields.io/badge/Open_Project-050B18?style=for-the-badge&logo=github&logoColor=FF8E01"/>
-
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🇵🇰 Pak Info DB
-
-Java Application
-
-<a href="https://github.com/AdeebTechLab/Pak-Info-DB-App">
-
-<img src="https://img.shields.io/badge/Open_Project-050B18?style=for-the-badge&logo=github&logoColor=FF8E01"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🌐 Chrome Extension
-
-New Tab Extension
-
-<a href="https://github.com/AdeebTechLab/Adeeb-Technology-Lab-New-Tab">
-
-<img src="https://img.shields.io/badge/Open_Project-050B18?style=for-the-badge&logo=github&logoColor=FF8E01"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-### 💻 Computer Courses
-
-Website
-
-<a href="https://github.com/AdeebTechLab/The-Computer-Courses-Web">
-
-<img src="https://img.shields.io/badge/Open_Project-050B18?style=for-the-badge&logo=github&logoColor=FF8E01"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-<div align="center">
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
 # 📊 GitHub Stats:
 
