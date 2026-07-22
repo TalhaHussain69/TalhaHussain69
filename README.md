@@ -80,88 +80,103 @@
 
 <br/>
 
-<table cellpadding="14" cellspacing="0" border="0" width="100%">
+
+<table width="100%" cellpadding="14" cellspacing="0" border="0">
 <tr>
-<td width="50%" valign="top">
+<td>
 
-<a href="https://github.com/TalhaHussain69/AlphaCode_MusicPlayer" class="project-card">
-<table class="pc-table">
-<tr><td>
-
-**AlphaCode_MusicPlayer**
+## 🚀 AlphaCode_MusicPlayer
 
 Wave — Music Player. A Modern, Elegant &amp; Responsive Music Player Experience
 
-<img src="https://img.shields.io/badge/-%E2%97%8F-f1e05a?style=flat-square&label=JavaScript&labelColor=0A1628&color=f1e05a" alt="JavaScript" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%A4-0-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
+<br>
 
-</td></tr>
-</table>
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square" />
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/TalhaHussain69/AlphaCode_MusicPlayer">
+<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+<br><br>
+<table width="100%" cellpadding="14" cellspacing="0" border="0">
+<tr>
+<td>
 
-<a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery" class="project-card">
-<table class="pc-table">
-<tr><td>
-
-**CodeAlpha_Image-Gallery**
+## 🚀 CodeAlpha_Image-Gallery
 
 An elegant, responsive image gallery showcasing modern UI design with category filtering, fullscreen image viewing, keyboard navigation, and smooth user interactions.
 
-<img src="https://img.shields.io/badge/-%E2%97%8F-563d7c?style=flat-square&label=CSS&labelColor=0A1628&color=563d7c" alt="CSS" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%A4-0-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
+<br>
 
-</td></tr>
-</table>
+<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square" />
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery">
+<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 </tr>
+</table>
+<br><br>
+<table width="100%" cellpadding="14" cellspacing="0" border="0">
 <tr>
-<td width="50%" valign="top">
+<td>
 
-<a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator" class="project-card">
-<table class="pc-table">
-<tr><td>
-
-**CodeAlpha_Calculator**
+## 🚀 CodeAlpha_Calculator
 
 A modern and responsive calculator built using HTML, CSS, and JavaScript. This project features a clean user interface, dark/light theme support, keyboard input, and standard arithmetic operations.
 
-<img src="https://img.shields.io/badge/-%E2%97%8F-f1e05a?style=flat-square&label=JavaScript&labelColor=0A1628&color=f1e05a" alt="JavaScript" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%A4-0-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
+<br>
 
-</td></tr>
-</table>
-</a>
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square" />
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
-</td>
-<td width="50%" valign="top">
+<br><br>
 
-<a href="https://github.com/TalhaHussain69/portfolio" class="project-card">
-<table class="pc-table">
-<tr><td>
-
-**portfolio**
-
-No description provided.
-
-<img src="https://img.shields.io/badge/-%E2%97%8F-563d7c?style=flat-square&label=CSS&labelColor=0A1628&color=563d7c" alt="CSS" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%A4-0-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
-
-</td></tr>
-</table>
+<a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator">
+<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 </tr>
 </table>
+<br><br>
+<table width="100%" cellpadding="14" cellspacing="0" border="0">
+<tr>
+<td>
+
+## 🚀 portfolio
+
+No description provided.
+
+<br>
+
+<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square" />
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/TalhaHussain69/portfolio">
+<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
 
 </div>
 <!--END_SECTION:projects-->
