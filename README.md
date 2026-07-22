@@ -8,12 +8,29 @@
 
 <br/>
 
-<a href="https://youtube.com/AdeebTechnologyLab"><img src="https://img.shields.io/badge/YouTube-0A1628?style=for-the-badge&logo=youtube&logoColor=FF8E01"/></a>
-<a href="https://www.facebook.com/AdeebTechnologyLab"><img src="https://img.shields.io/badge/Facebook-0A1628?style=for-the-badge&logo=facebook&logoColor=FF8E01"/></a>
-<a href="https://www.instagram.com/adeebtechnologylab/"><img src="https://img.shields.io/badge/Instagram-0A1628?style=for-the-badge&logo=instagram&logoColor=FF8E01"/></a>
-<a href="https://twitter.com/AdeebTechLab"><img src="https://img.shields.io/badge/X-0A1628?style=for-the-badge&logo=x&logoColor=FF8E01"/></a>
-<a href="https://www.linkedin.com/in/adeebtechnologylab/"><img src="https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=FF8E01"/></a>
-<a href="https://www.adeebtechlab.com"><img src="https://img.shields.io/badge/Website-0A1628?style=for-the-badge&logo=googlechrome&logoColor=FF8E01"/></a>
+<a href="https://play.google.com/store/apps/dev?id=6026600562723209564">
+<img src="https://img.shields.io/badge/PLAY%20STORE-0A1628?style=for-the-badge&logo=googleplay&logoColor=FF8E01"/>
+</a>
+
+<a href="https://apps.microsoft.com/search/publisher?name=Adeeb+Technology+Lab&hl=en-US&gl=US">
+<img src="https://img.shields.io/badge/MICROSOFT%20STORE-0A1628?style=for-the-badge&logo=windows&logoColor=FF8E01"/>
+</a>
+
+<a href="https://chromewebstore.google.com/search/Adeeb%20Technology%20Lab">
+<img src="https://img.shields.io/badge/CHROME%20STORE-0A1628?style=for-the-badge&logo=googlechrome&logoColor=FF8E01"/>
+</a>
+
+<a href="https://www.blogger.com/profile/04238200063616843720">
+<img src="https://img.shields.io/badge/BLOGS-0A1628?style=for-the-badge&logo=blogger&logoColor=FF8E01"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LINKEDIN-0A1628?style=for-the-badge&logo=linkedinin&logoColor=FF8E01&labelColor=0A1628"/>
+</a>
+
+<a href="YOUR_WHATSAPP_LINK">
+<img src="https://img.shields.io/badge/WHATSAPP-0A1628?style=for-the-badge&logo=whatsapp&logoColor=FF8E01"/>
+</a>
 
 <br/><br/>
 
