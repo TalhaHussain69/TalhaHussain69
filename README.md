@@ -53,7 +53,6 @@
 
 <br/>
 
-<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -153,7 +152,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ## 🐍 Contribution Snake
 
@@ -163,7 +162,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ## 📫 Contact
 
