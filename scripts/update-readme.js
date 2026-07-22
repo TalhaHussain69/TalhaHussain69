@@ -73,33 +73,35 @@ function buildCard(repo) {
   const stars = repo.stargazers_count ?? 0;
   const forks = repo.forks_count ?? 0;
 
-  return `<a href="${repo.html_url}" class="project-card">
-<table class="pc-table">
-<tr><td>
+  return `
+<table width="100%" cellpadding="14" cellspacing="0" border="0">
+<tr>
+<td>
 
-**${repo.name}**
+## 🚀 ${repo.name}
 
 ${desc}
 
-<img src="https://img.shields.io/badge/-%E2%97%8F-${langColor.replace("#", "")}?style=flat-square&label=${encodeURIComponent(lang)}&labelColor=0A1628&color=${langColor.replace("#", "")}" alt="${lang}" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%98%85-${stars}-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%A4-${forks}-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
+<br>
 
-</td></tr>
+<img src="https://img.shields.io/badge/●-${encodeURIComponent(lang)}-${langColor.replace("#","")}?style=flat-square" />
+<img src="https://img.shields.io/badge/⭐-${stars}-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-${forks}-CCD6F6?style=flat-square"/>
+
+<br><br>
+
+<a href="${repo.html_url}">
+<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
 </table>
-</a>`;
+`;
 }
 
-function buildSection(repos) {
-  const cards = repos.map(buildCard);
-  const rows = [];
-  for (let i = 0; i < cards.length; i += 2) {
-    rows.push(
-      `<tr>\n<td width="50%" valign="top">\n\n${cards[i] || ""}\n\n</td>\n<td width="50%" valign="top">\n\n${
-        cards[i + 1] || ""
-      }\n\n</td>\n</tr>`
-    );
-  }
+const cards = repos.map(buildCard).join("<br><br>");
+
 
   return `<!--START_SECTION:projects-->
 <div align="center">
@@ -109,9 +111,7 @@ function buildSection(repos) {
 
 <br/>
 
-<table cellpadding="14" cellspacing="0" border="0" width="100%">
-${rows.join("\n")}
-</table>
+${cards}
 
 </div>
 <!--END_SECTION:projects-->`;
