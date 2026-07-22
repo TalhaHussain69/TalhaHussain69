@@ -31,9 +31,9 @@
 
 **Salman Adeeb** — Cyber Security student at **IUB**, blending **security, development & creativity**.
 
-- 🔐 Cyber Security & Digital Safety
-- 💻 Web Development & Modern Tech
-- 🎨 UI/UX Design & Digital Media
+- 🔐 Cyber Security 
+- 💻 Web Developer
+- 🎨 Graphic Designer & video Editor
 - 🚀 Founder of **Adeeb Tech Lab**
 
 </td>
@@ -167,19 +167,7 @@
 
 <br/>
 
-<div align="left">
 
-## 📬 Contact
-
-<p align="left">
-
-<a href="mailto:info.AdeebTechLab@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL%20ME-0A1628?style=for-the-badge&logo=gmail&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
-</a>
-
-<a href="https://www.adeebtechlab.com">
-<img src="https://img.shields.io/badge/VISIT%20WEBSITE-0A1628?style=for-the-badge&logo=googlechrome&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
-</a>
 
 </p>
 
