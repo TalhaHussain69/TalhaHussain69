@@ -86,9 +86,9 @@
 > <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 > <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
->
+>  <br><br>
 > <a href="https://github.com/TalhaHussain69/AlphaCode_MusicPlayer">
-> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
 > </a>
 
 
@@ -97,9 +97,9 @@
 > <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 > <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
->
+>  <br><br>
 > <a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery">
-> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
 > </a>
 
 
@@ -108,9 +108,9 @@
 > <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 > <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
->
+>  <br><br>
 > <a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator">
-> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
 > </a>
 
 
@@ -119,9 +119,9 @@
 > <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 > <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
->
+>  <br><br>
 > <a href="https://github.com/TalhaHussain69/portfolio">
-> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
 > </a>
 
 
