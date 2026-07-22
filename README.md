@@ -157,7 +157,7 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/AdeebTechLab/AdeebTechLab/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/TalhaHussain69/TalhaHussain69/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
