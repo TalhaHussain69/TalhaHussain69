@@ -81,85 +81,45 @@
 <br/>
 
 
-<table width="100%" cellpadding="4" cellspacing="0" border="0">
-<tr>
-<td>
-
-<h3> 🚀 AlphaCode_MusicPlayer</h3>
-
-<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square" />
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
-
-<br>
-
-<a href="https://github.com/TalhaHussain69/AlphaCode_MusicPlayer">
-<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
-<br>
-<table width="100%" cellpadding="4" cellspacing="0" border="0">
-<tr>
-<td>
-
-<h3> 🚀 CodeAlpha_Image-Gallery</h3>
-
-<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square" />
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
-
-<br>
-
-<a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery">
-<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
-<br>
-<table width="100%" cellpadding="4" cellspacing="0" border="0">
-<tr>
-<td>
-
-<h3> 🚀 CodeAlpha_Calculator</h3>
-
-<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square" />
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
-
-<br>
-
-<a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator">
-<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
-<br>
-<table width="100%" cellpadding="4" cellspacing="0" border="0">
-<tr>
-<td>
-
-<h3> 🚀 portfolio</h3>
-
-<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square" />
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
-
-<br>
-
-<a href="https://github.com/TalhaHussain69/portfolio">
-<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
+> ## 🚀 AlphaCode_MusicPlayer
+>
+> <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
+> <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+> <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+>
+> <a href="https://github.com/TalhaHussain69/AlphaCode_MusicPlayer">
+> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> </a>
+/n
+> ## 🚀 CodeAlpha_Image-Gallery
+>
+> <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
+> <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+> <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+>
+> <a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery">
+> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> </a>
+/n
+> ## 🚀 CodeAlpha_Calculator
+>
+> <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
+> <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+> <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+>
+> <a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator">
+> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> </a>
+/n
+> ## 🚀 portfolio
+>
+> <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
+> <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+> <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+>
+> <a href="https://github.com/TalhaHussain69/portfolio">
+> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> </a>
 
 
 </div>
