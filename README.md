@@ -77,6 +77,39 @@
 ## 🚀 Featured Projects
 
 <!--START_SECTION:projects-->
+<div align="center">
+
+## 🚀 Featured Projects
+<sub>Auto-updated from my most recently active repositories</sub>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/TalhaHussain69/AlphaCode_MusicPlayer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHussain69&repo=AlphaCode_MusicPlayer&theme=transparent&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&border_color=FF8E01&bg_color=00000000&hide_border=false" width="480" alt="AlphaCode_MusicPlayer" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHussain69&repo=CodeAlpha_Image-Gallery&theme=transparent&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&border_color=FF8E01&bg_color=00000000&hide_border=false" width="480" alt="CodeAlpha_Image-Gallery" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHussain69&repo=CodeAlpha_Calculator&theme=transparent&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&border_color=FF8E01&bg_color=00000000&hide_border=false" width="480" alt="CodeAlpha_Calculator" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/TalhaHussain69/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHussain69&repo=portfolio&theme=transparent&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&border_color=FF8E01&bg_color=00000000&hide_border=false" width="480" alt="portfolio" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 <!--END_SECTION:projects-->
 
 # 📊 GitHub Stats:
