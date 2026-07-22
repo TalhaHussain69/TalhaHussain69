@@ -90,7 +90,7 @@
 
 **AlphaCode_MusicPlayer**
 
-A music player app built as part of the AlphaCode series.
+Wave — Music Player. A Modern, Elegant &amp; Responsive Music Player Experience
 
 <img src="https://img.shields.io/badge/-%E2%97%8F-f1e05a?style=flat-square&label=JavaScript&labelColor=0A1628&color=f1e05a" alt="JavaScript" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
@@ -109,9 +109,9 @@ A music player app built as part of the AlphaCode series.
 
 **CodeAlpha_Image-Gallery**
 
-An image gallery web app built during the CodeAlpha internship.
+An elegant, responsive image gallery showcasing modern UI design with category filtering, fullscreen image viewing, keyboard navigation, and smooth user interactions.
 
-<img src="https://img.shields.io/badge/-%E2%97%8F-e34c26?style=flat-square&label=HTML&labelColor=0A1628&color=e34c26" alt="HTML" height="20"/> &nbsp;
+<img src="https://img.shields.io/badge/-%E2%97%8F-563d7c?style=flat-square&label=CSS&labelColor=0A1628&color=563d7c" alt="CSS" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%9C%A4-0-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
 
@@ -130,7 +130,7 @@ An image gallery web app built during the CodeAlpha internship.
 
 **CodeAlpha_Calculator**
 
-A calculator app built during the CodeAlpha internship.
+A modern and responsive calculator built using HTML, CSS, and JavaScript. This project features a clean user interface, dark/light theme support, keyboard input, and standard arithmetic operations.
 
 <img src="https://img.shields.io/badge/-%E2%97%8F-f1e05a?style=flat-square&label=JavaScript&labelColor=0A1628&color=f1e05a" alt="JavaScript" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
@@ -149,9 +149,9 @@ A calculator app built during the CodeAlpha internship.
 
 **portfolio**
 
-My personal portfolio website.
+No description provided.
 
-<img src="https://img.shields.io/badge/-%E2%97%8F-3178c6?style=flat-square&label=TypeScript&labelColor=0A1628&color=3178c6" alt="TypeScript" height="20"/> &nbsp;
+<img src="https://img.shields.io/badge/-%E2%97%8F-563d7c?style=flat-square&label=CSS&labelColor=0A1628&color=563d7c" alt="CSS" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%9C%A4-0-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
 
