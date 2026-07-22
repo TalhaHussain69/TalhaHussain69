@@ -6,13 +6,13 @@
 const fs = require("fs");
 const path = require("path");
 
-const USERNAME = "AdeebTechLab";
+const USERNAME = "TalhaHussain69";
 const README_PATH = path.join(__dirname, "..", "README.md");
 const MAX_PROJECTS = 4; // how many repo cards to show
 const TOKEN = process.env.GITHUB_TOKEN;
 
 // Repos to always ignore (profile repo itself, forks, archived, etc.)
-const IGNORE_REPOS = [USERNAME.toLowerCase()]; // e.g. "AdeebTechLab/AdeebTechLab"
+const IGNORE_REPOS = [USERNAME.toLowerCase()]; // e.g. "TalhaHussain69/TalhaHussain69"
 
 async function fetchRepos() {
   const res = await fetch(
