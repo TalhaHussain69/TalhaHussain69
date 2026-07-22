@@ -76,9 +76,7 @@
 <div align="left">
 
 ## 🚀 Featured Projects
-<sub>Auto-updated from my most recently active repositories</sub>
 
-<br/>
 
 
 > <h3 align="left">🚀 AlphaCode_MusicPlayer</h3>
