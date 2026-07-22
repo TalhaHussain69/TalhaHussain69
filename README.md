@@ -148,15 +148,21 @@ Website
 <div align="center">
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.shion.dev/api?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img src="https://github-readme-stats.shion.dev/api?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=false&include_all_commits=false&count_private=false" width="500" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=AdeebTechLab&background=00000000&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+<img src="https://streak-stats.demolab.com/?user=AdeebTechLab&background=00000000&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0&hide_border=true" width="480" />
+</td>
+<td align="center" valign="top" width="50%">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide_title=false&card_width=480" width="480" />
+</td>
+</tr>
+</table>
 
 <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdeebTechLab&show_icons=true&theme=default&hide_border=true&bg_color=0A1628&title_color=FF8E01&icon_color=FF8E01&text_color=ffffff"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=AdeebTechLab&hide_border=true&background=0A1628&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=ffffff&dates=ffffff&stroke=0A1628"/> -->
