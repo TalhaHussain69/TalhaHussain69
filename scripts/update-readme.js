@@ -92,9 +92,7 @@ function buildSection(repos) {
 <div align="left">
 
 ## 🚀 Featured Projects
-<sub>Auto-updated from my most recently active repositories</sub>
 
-<br/>
 
 ${cards}
 
