@@ -73,7 +73,7 @@
 <br/>
 
 <!--START_SECTION:projects-->
-<div align="center">
+<div align="left">
 
 ## 🚀 Featured Projects
 <sub>Auto-updated from my most recently active repositories</sub>
@@ -81,7 +81,7 @@
 <br/>
 
 
-> ## 🚀 AlphaCode_MusicPlayer
+> <h3 align="left">🚀 AlphaCode_MusicPlayer</h3>
 >
 > <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
@@ -92,7 +92,7 @@
 > </a>
 
 
-> ## 🚀 CodeAlpha_Image-Gallery
+> <h3 align="left">🚀 CodeAlpha_Image-Gallery</h3>
 >
 > <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
@@ -103,7 +103,7 @@
 > </a>
 
 
-> ## 🚀 CodeAlpha_Calculator
+> <h3 align="left">🚀 CodeAlpha_Calculator</h3>
 >
 > <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
@@ -114,7 +114,7 @@
 > </a>
 
 
-> ## 🚀 portfolio
+> <h3 align="left">🚀 portfolio</h3>
 >
 > <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
