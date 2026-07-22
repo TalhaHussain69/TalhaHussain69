@@ -67,37 +67,26 @@ function escapeHtml(str = "") {
 }
 
 function buildCard(repo) {
-  const desc = escapeHtml(repo.description || "No description provided.");
   const lang = repo.language || "Other";
   const langColor = LANG_COLORS[lang] || "#8892B0";
   const stars = repo.stargazers_count ?? 0;
   const forks = repo.forks_count ?? 0;
 
-  return `
-<table width="100%" cellpadding="4" cellspacing="0" border="0">
-<tr>
-<td>
-
-<h3> 🚀 ${repo.name}</h3>
-
-<img src="https://img.shields.io/badge/●-${encodeURIComponent(lang)}-${langColor.replace("#","")}?style=flat-square" />
-<img src="https://img.shields.io/badge/⭐-${stars}-FF8E01?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-${forks}-CCD6F6?style=flat-square"/>
-
-<br>
-
-<a href="${repo.html_url}">
-<img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
+return `
+> ## 🚀 ${repo.name}
+>
+> <img src="https://img.shields.io/badge/●-${encodeURIComponent(lang)}-${langColor.replace("#","")}?style=flat-square"/>
+> <img src="https://img.shields.io/badge/⭐-${stars}-FF8E01?style=flat-square"/>
+> <img src="https://img.shields.io/badge/🍴-${forks}-CCD6F6?style=flat-square"/>
+>
+> <a href="${repo.html_url}">
+> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> </a>
 `;
 }
 
 function buildSection(repos) {
-  const cards = repos.map(buildCard).join("<br>");
+  const cards = repos.map(buildCard).join("/n");
 
   return `<!--START_SECTION:projects-->
 <div align="center">
