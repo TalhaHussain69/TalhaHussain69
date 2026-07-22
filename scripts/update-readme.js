@@ -78,9 +78,9 @@ return `
 > <img src="https://img.shields.io/badge/●-${encodeURIComponent(lang)}-${langColor.replace("#","")}?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-${stars}-FF8E01?style=flat-square"/>
 > <img src="https://img.shields.io/badge/🍴-${forks}-CCD6F6?style=flat-square"/>
->
+>  <br><br>
 > <a href="${repo.html_url}">
-> <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white"/>
+> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
 > </a>
 `;
 }
