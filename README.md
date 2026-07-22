@@ -72,10 +72,6 @@
 
 <br/>
 
-<div align="center">
-
-## 🚀 Featured Projects
-
 <!--START_SECTION:projects-->
 <div align="center">
 
@@ -94,7 +90,7 @@
 
 **AlphaCode_MusicPlayer**
 
-Wave — Music Player. A Modern, Elegant &amp; Responsive Music Player Experience
+A music player app built as part of the AlphaCode series.
 
 <img src="https://img.shields.io/badge/-%E2%97%8F-f1e05a?style=flat-square&label=JavaScript&labelColor=0A1628&color=f1e05a" alt="JavaScript" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
@@ -113,9 +109,9 @@ Wave — Music Player. A Modern, Elegant &amp; Responsive Music Player Experienc
 
 **CodeAlpha_Image-Gallery**
 
-An elegant, responsive image gallery showcasing modern UI design with category filtering, fullscreen image viewing, keyboard navigation, and smooth user interactions.
+An image gallery web app built during the CodeAlpha internship.
 
-<img src="https://img.shields.io/badge/-%E2%97%8F-563d7c?style=flat-square&label=CSS&labelColor=0A1628&color=563d7c" alt="CSS" height="20"/> &nbsp;
+<img src="https://img.shields.io/badge/-%E2%97%8F-e34c26?style=flat-square&label=HTML&labelColor=0A1628&color=e34c26" alt="HTML" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%9C%A4-0-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
 
@@ -134,7 +130,7 @@ An elegant, responsive image gallery showcasing modern UI design with category f
 
 **CodeAlpha_Calculator**
 
-A modern and responsive calculator built using HTML, CSS, and JavaScript. This project features a clean user interface, dark/light theme support, keyboard input, and standard arithmetic operations.
+A calculator app built during the CodeAlpha internship.
 
 <img src="https://img.shields.io/badge/-%E2%97%8F-f1e05a?style=flat-square&label=JavaScript&labelColor=0A1628&color=f1e05a" alt="JavaScript" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
@@ -153,9 +149,9 @@ A modern and responsive calculator built using HTML, CSS, and JavaScript. This p
 
 **portfolio**
 
-No description provided.
+My personal portfolio website.
 
-<img src="https://img.shields.io/badge/-%E2%97%8F-563d7c?style=flat-square&label=CSS&labelColor=0A1628&color=563d7c" alt="CSS" height="20"/> &nbsp;
+<img src="https://img.shields.io/badge/-%E2%97%8F-3178c6?style=flat-square&label=TypeScript&labelColor=0A1628&color=3178c6" alt="TypeScript" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%98%85-0-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
 <img src="https://img.shields.io/badge/%E2%9C%A4-0-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
 
@@ -169,6 +165,8 @@ No description provided.
 
 </div>
 <!--END_SECTION:projects-->
+
+<br/>
 
 # 📊 GitHub Stats:
 
@@ -186,9 +184,6 @@ No description provided.
 </td>
 </tr>
 </table>
-
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdeebTechLab&show_icons=true&theme=default&hide_border=true&bg_color=0A1628&title_color=FF8E01&icon_color=FF8E01&text_color=ffffff"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=AdeebTechLab&hide_border=true&background=0A1628&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=ffffff&dates=ffffff&stroke=0A1628"/> -->
 
 <br/><br/>
 
@@ -215,8 +210,6 @@ No description provided.
 📧 **info.AdeebTechLab@gmail.com**
 
 <a href="https://www.adeebtechlab.com"><img src="https://img.shields.io/badge/Visit%20Website-FF8E01?style=for-the-badge&logo=googlechrome&logoColor=050B18"/></a>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FF8E01&animation=twinkling" width="100%"/>
 
