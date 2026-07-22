@@ -74,21 +74,17 @@ function buildCard(repo) {
   const forks = repo.forks_count ?? 0;
 
   return `
-<table width="100%" cellpadding="14" cellspacing="0" border="0">
+<table width="100%" cellpadding="12" cellspacing="0" border="0">
 <tr>
 <td>
 
-## 🚀 ${repo.name}
-
-${desc}
-
-<br>
+<h3> 🚀 ${repo.name}</h3>
 
 <img src="https://img.shields.io/badge/●-${encodeURIComponent(lang)}-${langColor.replace("#","")}?style=flat-square" />
 <img src="https://img.shields.io/badge/⭐-${stars}-FF8E01?style=flat-square"/>
 <img src="https://img.shields.io/badge/🍴-${forks}-CCD6F6?style=flat-square"/>
 
-<br><br>
+<br>
 
 <a href="${repo.html_url}">
 <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
