@@ -165,11 +165,19 @@
 
 <div align="left">
 
-## 📫 Contact
+## 📬 Contact
 
-📧 **info.AdeebTechLab@gmail.com**
+<p align="left">
 
-<a href="https://www.adeebtechlab.com"><img src="https://img.shields.io/badge/Visit%20Website-FF8E01?style=for-the-badge&logo=googlechrome&logoColor=050B18"/></a>
+<a href="mailto:info.AdeebTechLab@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL%20ME-0A1628?style=for-the-badge&logo=gmail&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+<a href="https://www.adeebtechlab.com">
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-0A1628?style=for-the-badge&logo=googlechrome&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FF8E01&animation=twinkling" width="100%"/>
 
