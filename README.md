@@ -81,21 +81,17 @@
 <br/>
 
 
-<table width="100%" cellpadding="14" cellspacing="0" border="0">
+<table width="100%" cellpadding="12" cellspacing="0" border="0">
 <tr>
 <td>
 
-## 🚀 AlphaCode_MusicPlayer
-
-Wave — Music Player. A Modern, Elegant &amp; Responsive Music Player Experience
-
-<br>
+<h3> 🚀 AlphaCode_MusicPlayer</h3>
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square" />
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/TalhaHussain69/AlphaCode_MusicPlayer">
 <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
@@ -105,21 +101,17 @@ Wave — Music Player. A Modern, Elegant &amp; Responsive Music Player Experienc
 </tr>
 </table>
 <br><br>
-<table width="100%" cellpadding="14" cellspacing="0" border="0">
+<table width="100%" cellpadding="12" cellspacing="0" border="0">
 <tr>
 <td>
 
-## 🚀 CodeAlpha_Image-Gallery
-
-An elegant, responsive image gallery showcasing modern UI design with category filtering, fullscreen image viewing, keyboard navigation, and smooth user interactions.
-
-<br>
+<h3> 🚀 CodeAlpha_Image-Gallery</h3>
 
 <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square" />
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery">
 <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
@@ -129,21 +121,17 @@ An elegant, responsive image gallery showcasing modern UI design with category f
 </tr>
 </table>
 <br><br>
-<table width="100%" cellpadding="14" cellspacing="0" border="0">
+<table width="100%" cellpadding="12" cellspacing="0" border="0">
 <tr>
 <td>
 
-## 🚀 CodeAlpha_Calculator
-
-A modern and responsive calculator built using HTML, CSS, and JavaScript. This project features a clean user interface, dark/light theme support, keyboard input, and standard arithmetic operations.
-
-<br>
+<h3> 🚀 CodeAlpha_Calculator</h3>
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square" />
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator">
 <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
@@ -153,21 +141,17 @@ A modern and responsive calculator built using HTML, CSS, and JavaScript. This p
 </tr>
 </table>
 <br><br>
-<table width="100%" cellpadding="14" cellspacing="0" border="0">
+<table width="100%" cellpadding="12" cellspacing="0" border="0">
 <tr>
 <td>
 
-## 🚀 portfolio
-
-No description provided.
-
-<br>
+<h3> 🚀 portfolio</h3>
 
 <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square" />
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/TalhaHussain69/portfolio">
 <img src="https://img.shields.io/badge/View%20Repository-FF8E01?style=for-the-badge&logo=github&logoColor=white">
