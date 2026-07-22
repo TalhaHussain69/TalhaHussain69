@@ -7,12 +7,31 @@ const fs = require("fs");
 const path = require("path");
 
 const USERNAME = "TalhaHussain69";
+
 const README_PATH = path.join(__dirname, "..", "README.md");
 const MAX_PROJECTS = 4; // how many repo cards to show
 const TOKEN = process.env.GITHUB_TOKEN;
 
 // Repos to always ignore (profile repo itself, forks, archived, etc.)
-const IGNORE_REPOS = [USERNAME.toLowerCase()]; // e.g. "TalhaHussain69/TalhaHussain69"
+const IGNORE_REPOS = [USERNAME.toLowerCase()]; // e.g. "adeebtechlab/adeebtechlab"
+
+// Small color map for common languages (used for the little dot next to language name)
+const LANG_COLORS = {
+  JavaScript: "#f1e05a",
+  TypeScript: "#3178c6",
+  Python: "#3572A5",
+  Java: "#b07219",
+  Kotlin: "#A97BFF",
+  HTML: "#e34c26",
+  CSS: "#563d7c",
+  C: "#555555",
+  "C++": "#f34b7d",
+  "C#": "#178600",
+  PHP: "#4F5D95",
+  Dart: "#00B4AB",
+  Shell: "#89e051",
+  Go: "#00ADD8",
+};
 
 async function fetchRepos() {
   const res = await fetch(
@@ -39,30 +58,47 @@ async function fetchRepos() {
     .slice(0, MAX_PROJECTS);
 }
 
-function buildCard(repo) {
-  const pinUrl =
-    `https://github-readme-stats.vercel.app/api/pin/?username=${USERNAME}` +
-    `&repo=${repo.name}` +
-    `&theme=transparent` +
-    `&title_color=FF8E01` +
-    `&text_color=CCD6F6` +
-    `&icon_color=FF8E01` +
-    `&border_color=FF8E01` +
-    `&bg_color=00000000` +
-    `&hide_border=false`;
+function escapeHtml(str = "") {
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
 
-  return `<td align="center" width="50%">
-<a href="${repo.html_url}">
-<img src="${pinUrl}" width="480" alt="${repo.name}" />
-</a>
-</td>`;
+function buildCard(repo) {
+  const desc = escapeHtml(repo.description || "No description provided.");
+  const lang = repo.language || "Other";
+  const langColor = LANG_COLORS[lang] || "#8892B0";
+  const stars = repo.stargazers_count ?? 0;
+  const forks = repo.forks_count ?? 0;
+
+  return `<a href="${repo.html_url}" class="project-card">
+<table class="pc-table">
+<tr><td>
+
+**${repo.name}**
+
+${desc}
+
+<img src="https://img.shields.io/badge/-%E2%97%8F-${langColor.replace("#", "")}?style=flat-square&label=${encodeURIComponent(lang)}&labelColor=0A1628&color=${langColor.replace("#", "")}" alt="${lang}" height="20"/> &nbsp;
+<img src="https://img.shields.io/badge/%E2%98%85-${stars}-FF8E01?style=flat-square&labelColor=0A1628" alt="stars" height="20"/> &nbsp;
+<img src="https://img.shields.io/badge/%E2%9C%A4-${forks}-CCD6F6?style=flat-square&labelColor=0A1628" alt="forks" height="20"/>
+
+</td></tr>
+</table>
+</a>`;
 }
 
 function buildSection(repos) {
   const cards = repos.map(buildCard);
   const rows = [];
   for (let i = 0; i < cards.length; i += 2) {
-    rows.push(`<tr>\n${cards[i] || ""}\n${cards[i + 1] || ""}\n</tr>`);
+    rows.push(
+      `<tr>\n<td width="50%" valign="top">\n\n${cards[i] || ""}\n\n</td>\n<td width="50%" valign="top">\n\n${
+        cards[i + 1] || ""
+      }\n\n</td>\n</tr>`
+    );
   }
 
   return `<!--START_SECTION:projects-->
@@ -71,7 +107,9 @@ function buildSection(repos) {
 ## 🚀 Featured Projects
 <sub>Auto-updated from my most recently active repositories</sub>
 
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<br/>
+
+<table cellpadding="14" cellspacing="0" border="0" width="100%">
 ${rows.join("\n")}
 </table>
 
@@ -89,7 +127,6 @@ async function run() {
 
   const newSection = buildSection(repos);
   const readme = fs.readFileSync(README_PATH, "utf8");
-
   const regex = /<!--START_SECTION:projects-->[\s\S]*?<!--END_SECTION:projects-->/;
 
   if (!regex.test(readme)) {
