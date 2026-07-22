@@ -100,8 +100,8 @@ ${desc}
 `;
 }
 
-const cards = repos.map(buildCard).join("<br><br>");
-
+function buildSection(repos) {
+  const cards = repos.map(buildCard).join("<br><br>");
 
   return `<!--START_SECTION:projects-->
 <div align="center">
