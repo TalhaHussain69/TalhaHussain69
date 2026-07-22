@@ -53,7 +53,7 @@
 
 <br/>
 
-
+<div align="left">
 ## 🛠️ Tech Stack
 
 <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=60&bg=0A1628&shape=circle" title="HTML5" />
