@@ -73,7 +73,7 @@ function buildCard(repo) {
   const forks = repo.forks_count ?? 0;
 
 return `
-> ## 🚀 ${repo.name}
+> <h3 align="left">🚀 ${repo.name}</h3>
 >
 > <img src="https://img.shields.io/badge/●-${encodeURIComponent(lang)}-${langColor.replace("#","")}?style=flat-square"/>
 > <img src="https://img.shields.io/badge/⭐-${stars}-FF8E01?style=flat-square"/>
@@ -89,7 +89,7 @@ function buildSection(repos) {
   const cards = repos.map(buildCard).join("\n");
 
   return `<!--START_SECTION:projects-->
-<div align="center">
+<div align="left">
 
 ## 🚀 Featured Projects
 <sub>Auto-updated from my most recently active repositories</sub>
