@@ -153,11 +153,15 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:050B18&height=3" width="100%"/>
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/TalhaHussain69/TalhaHussain69/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img width="100%" src="https://raw.githubusercontent.com/TalhaHussain69/TalhaHussain69/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,100:000814&height=3" width="100%"/>
 
 </div>
 
