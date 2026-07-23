@@ -98,7 +98,7 @@
 
 <td width="50%" valign="top">
 
-<table width="100%" cellpadding="18" cellspacing="0" border="1">
+<table width="100%" height="260" cellpadding="18" cellspacing="0" style="border:1px solid #2f3542;border-radius:10px;">
 <tr>
 <td>
 
@@ -131,7 +131,7 @@
 
 <td width="50%" valign="top">
 
-<table width="100%" cellpadding="18" cellspacing="0" border="1">
+<table width="100%" height="260" cellpadding="18" cellspacing="0" style="border:1px solid #2f3542;border-radius:10px;">
 <tr>
 <td>
 
@@ -167,7 +167,7 @@
 
 <td width="50%" valign="top">
 
-<table width="100%" cellpadding="18" cellspacing="0" border="1">
+<table width="100%" height="260" cellpadding="18" cellspacing="0" style="border:1px solid #2f3542;border-radius:10px;">
 <tr>
 <td>
 
@@ -200,7 +200,7 @@
 
 <td width="50%" valign="top">
 
-<table width="100%" cellpadding="18" cellspacing="0" border="1">
+<table width="100%" height="260" cellpadding="18" cellspacing="0" style="border:1px solid #2f3542;border-radius:10px;">
 <tr>
 <td>
 
