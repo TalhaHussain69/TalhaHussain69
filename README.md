@@ -34,7 +34,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AdeebTechLab&label=Profile%20Views&color=0A1628&style=for-the-badge&labelColor=FF8E01"/>
+<img src="https://komarev.com/ghpvc/?username=TalhaHussain69&label=Profile%20Views&color=0A1628&style=for-the-badge&labelColor=FF8E01"/>
 
 </div>
 
@@ -269,7 +269,7 @@
 <td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.shion.dev/api?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=true"
+src="https://github-readme-stats.shion.dev/api?username=TalhaHussain69&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=true"
 width="100%"/>
 
 </td>
@@ -277,7 +277,7 @@ width="100%"/>
 <td align="center" width="50%">
 
 <img
-src="https://streak-stats.demolab.com/?user=AdeebTechLab&background=00000000&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0&hide_border=true"
+src="https://streak-stats.demolab.com/?user=TalhaHussain69&background=00000000&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0&hide_border=true"
 width="100%"/>
 
 </td>
@@ -289,7 +289,7 @@ width="100%"/>
 
 <p align="left">
   <img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&hide_border=true&layout=compact&card_width=900"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=TalhaHussain69&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&hide_border=true&layout=compact&card_width=900"
   width="90%" />
 </p>
 
@@ -298,7 +298,7 @@ width="100%"/>
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AdeebTechLab&hide_border=true&bg_color=00000000&color=FF8E01&line=FF8E01&point=CCD6F6&area=true&area_color=FF8E01"
+src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaHussain69&hide_border=true&bg_color=00000000&color=FF8E01&line=FF8E01&point=CCD6F6&area=true&area_color=FF8E01"
 width="90%"/>
 
 </p>
