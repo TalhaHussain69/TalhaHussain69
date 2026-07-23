@@ -90,55 +90,137 @@
 <br/>
 
 <!--START_SECTION:projects-->
-<div align="left">
+<div align="center">
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
+<sub>Explore some of my best work.</sub>
 
+<br>
 
-> <h3 align="left">🚀 AlphaCode_MusicPlayer</h3>
->
-> <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
-> <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-> <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
->  <br><br>
-> <a href="https://github.com/TalhaHussain69/AlphaCode_MusicPlayer">
-> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
-> </a>
+<table width="100%" cellspacing="0" cellpadding="0">
 
+<tr>
+<td width="50%" valign="top" style="padding:12px;">
 
-> <h3 align="left">🚀 CodeAlpha_Image-Gallery</h3>
->
-> <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
-> <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-> <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
->  <br><br>
-> <a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery">
-> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
-> </a>
+<table width="100%" cellpadding="18" cellspacing="0"
+style="border:1px solid #FF8E01;border-radius:12px;background:#0A1628;">
 
+<tr>
+<td>
 
-> <h3 align="left">🚀 CodeAlpha_Calculator</h3>
->
-> <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
-> <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-> <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
->  <br><br>
-> <a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator">
-> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
-> </a>
+<h2>🚀 AlphaCode_MusicPlayer</h2>
 
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🍴-0-8892B0?style=flat-square"/>
 
-> <h3 align="left">🚀 portfolio</h3>
->
-> <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
-> <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-> <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
->  <br><br>
-> <a href="https://github.com/TalhaHussain69/portfolio">
-> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
-> </a>
+<br><br>
 
+<a href="https://github.com/TalhaHussain69/AlphaCode_MusicPlayer">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+<td width="50%" valign="top" style="padding:12px;">
+
+<table width="100%" cellpadding="18" cellspacing="0"
+style="border:1px solid #FF8E01;border-radius:12px;background:#0A1628;">
+
+<tr>
+<td>
+
+<h2>🚀 CodeAlpha_Image-Gallery</h2>
+
+<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🍴-0-8892B0?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" style="padding:12px;">
+
+<table width="100%" cellpadding="18" cellspacing="0"
+style="border:1px solid #FF8E01;border-radius:12px;background:#0A1628;">
+
+<tr>
+<td>
+
+<h2>🚀 CodeAlpha_Calculator</h2>
+
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🍴-0-8892B0?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+<td width="50%" valign="top" style="padding:12px;">
+
+<table width="100%" cellpadding="18" cellspacing="0"
+style="border:1px solid #FF8E01;border-radius:12px;background:#0A1628;">
+
+<tr>
+<td>
+
+<h2>🚀 portfolio</h2>
+
+<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🍴-0-8892B0?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/TalhaHussain69/portfolio">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+</table>
 
 </div>
 <!--END_SECTION:projects-->
