@@ -92,13 +92,17 @@
 <!--START_SECTION:projects-->
 ## 🚀 Featured Projects
 
-<table width="100%" cellspacing="18" cellpadding="0">
+<table width="100%" cellspacing="18" cellpadding="0"  style="border-collapse:separate;">
 
 <tr>
 
 <td width="50%" valign="top">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0" style="border:1px solid #2f3542;border-radius:10px;">
+<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
+    border:1px solid #30363d;
+    border-collapse:collapse;
+    background:transparent;
+  ">
 <tr>
 <td>
 
@@ -131,7 +135,11 @@
 
 <td width="50%" valign="top">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0" style="border:1px solid #2f3542;border-radius:10px;">
+<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
+    border:1px solid #30363d;
+    border-collapse:collapse;
+    background:transparent;
+  ">
 <tr>
 <td>
 
@@ -167,7 +175,11 @@
 
 <td width="50%" valign="top">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0" style="border:1px solid #2f3542;border-radius:10px;">
+<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
+    border:1px solid #30363d;
+    border-collapse:collapse;
+    background:transparent;
+  ">
 <tr>
 <td>
 
@@ -200,7 +212,11 @@
 
 <td width="50%" valign="top">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0" style="border:1px solid #2f3542;border-radius:10px;">
+<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
+    border:1px solid #30363d;
+    border-collapse:collapse;
+    background:transparent;
+  ">
 <tr>
 <td>
 
