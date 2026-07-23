@@ -75,7 +75,11 @@ function buildCard(repo) {
   return `
 <td width="50%" valign="top">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0" style="border:1px solid #2f3542;border-radius:10px;">
+<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
+    border:1px solid #30363d;
+    border-collapse:collapse;
+    background:transparent;
+  ">
 <tr>
 <td>
 
@@ -116,7 +120,7 @@ function buildSection(repos) {
     rows += `
 <tr>
 ${buildCard(repos[i])}
-${repos[i + 1] ? buildCard(repos[i + 1]) : '<td width="50%"></td>'}
+${repos[i + 1] ? buildCard(repos[i + 1]) : ""}
 </tr>
 `;
   }
@@ -124,7 +128,7 @@ ${repos[i + 1] ? buildCard(repos[i + 1]) : '<td width="50%"></td>'}
   return `<!--START_SECTION:projects-->
 ## 🚀 Featured Projects
 
-<table width="100%" cellspacing="18" cellpadding="0">
+<table width="100%" cellspacing="18" cellpadding="0"  style="border-collapse:separate;">
 ${rows}
 </table>
 <!--END_SECTION:projects-->`;
