@@ -255,28 +255,45 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.shion.dev/api?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=false&include_all_commits=false&count_private=false" width="500" />
-
-<br/>
-
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<table width="100%">
 <tr>
-<td align="center" valign="top" width="50%">
-<img src="https://streak-stats.demolab.com/?user=AdeebTechLab&background=00000000&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0&hide_border=true" width="480" />
+
+<td align="center" width="50%">
+
+<img
+src="https://github-readme-stats.shion.dev/api?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=true"
+width="100%"/>
+
 </td>
-<td align="center" valign="top" width="50%">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide_title=false&card_width=480" width="480" />
+
+<td align="center" width="50%">
+
+<img
+src="https://streak-stats.demolab.com/?user=AdeebTechLab&background=00000000&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0&hide_border=true"
+width="100%"/>
+
 </td>
+
 </tr>
 </table>
 
-<br/><br/>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeebTechLab&hide_border=true&bg_color=00000000&color=FF8E01&line=FF8E01&point=CCD6F6&area=true&area_color=FF8E01" width="90%"/>
+<p align="center">
+  <img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&hide_border=true&layout=compact&card_width=1000"
+  width="90%" />
+</p>
 
-</div>
+<br>
 
-<br/>
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=AdeebTechLab&hide_border=true&bg_color=00000000&color=FF8E01&line=FF8E01&point=CCD6F6&area=true&area_color=FF8E01"
+width="90%"/>
+
+</p>
 
 <div align="center">
 
