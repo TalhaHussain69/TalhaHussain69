@@ -74,6 +74,8 @@
   
 ## 🛠️ Tech Stack
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,50:FF8E01,100:000814&height=4&animation=blinking" width="100%"/>
+
 <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=60&bg=0A1628&shape=circle" title="HTML5" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=60&bg=0A1628&shape=circle" title="CSS3" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=60&bg=0A1628&shape=circle" title="JavaScript" />
@@ -85,6 +87,8 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=60&bg=0A1628&shape=circle" title="Java" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=60&bg=0A1628&shape=circle" title="Python" />
 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,50:FF8E01,100:000814&height=4&animation=blinking" width="100%"/>
 </div>
 
 <br/>
