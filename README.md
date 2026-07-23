@@ -1,34 +1,22 @@
 <div align="center">
 
 <!-- Animated Header Banner - Deep Dark Navy -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=250&section=header&text=Adeeb%20Tech%20Lab&fontSize=55&fontColor=FF8E01&animation=twinkling&desc=Cyber%20Security%20%7C%20Development%20%7C%20Creativity&descAlignY=63&descSize=18&descColor=CCD6F6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=250&section=header&text=Muhammad%20Talha%20Hussain&fontSize=55&fontColor=FF8E01&animation=twinkling&desc=Student%20%7C%20Developer%20%7C%20Creativity&descAlignY=63&descSize=18&descColor=CCD6F6" width="100%"/>
 
 <!-- Typing Animation - Orange Accent -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=FF8E01&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Salman+Adeeb+%F0%9F%91%8B;Cyber+Security+Student+%40+IUB;Founder+Of+Adeeb+Tech+Lab" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=FF8E01&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Talha+Hussain+%F0%9F%91%8B;Computer+Science+Student+%40+IUB;Learning+Web+Technologies" alt="Typing SVG"/>
 
 <br/>
-
-<a href="https://play.google.com/store/apps/dev?id=6026600562723209564">
-<img src="https://img.shields.io/badge/PLAY%20STORE-0A1628?style=for-the-badge&logo=googleplay&logoColor=FF8E01"/>
-</a>
-
-<a href="https://apps.microsoft.com/search/publisher?name=Adeeb+Technology+Lab&hl=en-US&gl=US">
-<img src="https://img.shields.io/badge/MICROSOFT%20STORE-0A1628?style=for-the-badge&logo=windows&logoColor=FF8E01"/>
-</a>
-
-<a href="https://chromewebstore.google.com/search/Adeeb%20Technology%20Lab">
-<img src="https://img.shields.io/badge/CHROME%20STORE-0A1628?style=for-the-badge&logo=googlechrome&logoColor=FF8E01"/>
-</a>
 
 <a href="https://www.blogger.com/profile/04238200063616843720">
 <img src="https://img.shields.io/badge/BLOGS-0A1628?style=for-the-badge&logo=blogger&logoColor=FF8E01"/>
 </a>
 
-<a href="https://www.linkedin.com/in/salmanadeeb2/">
+<a href="https://www.linkedin.com/in/muhammad-talha-hussain-33939a3b7/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A1628?style=for-the-badge&logo=linkedinin&logoColor=FF8E01&labelColor=0A1628"/>
 </a>
 
-<a href="https://wa.me/923092333121?text=Hi%20Salman%20Adeeb!%20👋%20I%20came%20across%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20like%20to%20connect%20and%20discuss%20about%20projects." target="_blank">
+<a href="https://wa.me/923203232069?text=Hi%20Muhammad%20Talha%20👋%20I%20came%20across%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20like%20to%20connect%20and%20discuss%20about%20projects." target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-0A1628?style=for-the-badge&logo=whatsapp&logoColor=FF8E01"/>
 </a>
 
@@ -46,12 +34,11 @@
 <tr>
 <td width="60%">
 
-**Salman Adeeb** — Cyber Security student at **IUB**, blending **security, development & creativity**.
+**Muhammad Talha Hussain** — Computer Science student at **IUB**, blending **learning, development & creativity**.
 
-- 🔐 Cyber Security 
+- 🔐 Learner
 - 💻 Web Developer
-- 🎨 Graphic Designer & video Editor
-- 🚀 Founder of **Adeeb Tech Lab**
+- 🎨 Student
 
 </td>
 <td width="40%" align="center">
