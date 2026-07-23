@@ -130,23 +130,6 @@ ${rows}
 <!--END_SECTION:projects-->`;
 }
 
-  return `<!--START_SECTION:projects-->
-<div align="center">
-
-# 🚀 Featured Projects
-
-<sub>Explore some of my best work.</sub>
-
-<br>
-
-<table width="100%" cellspacing="0" cellpadding="0">
-${rows}
-</table>
-
-</div>
-<!--END_SECTION:projects-->`;
-}
-
 async function run() {
   const repos = await fetchRepos();
 
