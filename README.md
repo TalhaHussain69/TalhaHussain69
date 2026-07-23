@@ -90,27 +90,29 @@
 <br/>
 
 <!--START_SECTION:projects-->
+<div align="center">
+
 ## 🚀 Featured Projects
 
-<table width="100%" cellspacing="18" cellpadding="0"  style="border-collapse:separate;">
+<table align="center" cellspacing="18" cellpadding="0" style="border-collapse:separate; margin:0 auto;">
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
-    border:1px solid #30363d;
+<table width="440" height="240" cellpadding="18" cellspacing="0" style="
+    border:none;
     border-collapse:collapse;
     background:transparent;
   ">
 <tr>
-<td>
+<td align="center">
 
-<h2 align="left">🚀 AlphaCode_MusicPlayer</h2>
+<h2 align="center">🚀 AlphaCode_MusicPlayer</h2>
 
-<hr>
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
@@ -133,21 +135,21 @@
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
-    border:1px solid #30363d;
+<table width="440" height="240" cellpadding="18" cellspacing="0" style="
+    border:none;
     border-collapse:collapse;
     background:transparent;
   ">
 <tr>
-<td>
+<td align="center">
 
-<h2 align="left">🚀 CodeAlpha_Image-Gallery</h2>
+<h2 align="center">🚀 CodeAlpha_Image-Gallery</h2>
 
-<hr>
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
 
@@ -173,21 +175,21 @@
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
-    border:1px solid #30363d;
+<table width="440" height="240" cellpadding="18" cellspacing="0" style="
+    border:none;
     border-collapse:collapse;
     background:transparent;
   ">
 <tr>
-<td>
+<td align="center">
 
-<h2 align="left">🚀 CodeAlpha_Calculator</h2>
+<h2 align="center">🚀 CodeAlpha_Calculator</h2>
 
-<hr>
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
@@ -210,21 +212,21 @@
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
-    border:1px solid #30363d;
+<table width="440" height="240" cellpadding="18" cellspacing="0" style="
+    border:none;
     border-collapse:collapse;
     background:transparent;
   ">
 <tr>
-<td>
+<td align="center">
 
-<h2 align="left">🚀 portfolio</h2>
+<h2 align="center">🚀 portfolio</h2>
 
-<hr>
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
 
@@ -249,6 +251,8 @@
 </tr>
 
 </table>
+
+</div>
 <!--END_SECTION:projects-->
 
 <br/>
