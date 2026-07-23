@@ -94,19 +94,19 @@
 
 ## 🚀 Featured Projects
 
-<table align="center" cellspacing="18" cellpadding="0" style="border-collapse:separate; margin:0 auto;">
+<table align="center" cellspacing="18" cellpadding="0" border="0" style="border:none; border-collapse:separate; margin:0 auto;">
 
-<tr>
+<tr style="border:none;">
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="border:none;">
 
-<table width="440" height="240" cellpadding="18" cellspacing="0" style="
-    border:none;
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
     border-collapse:collapse;
     background:transparent;
   ">
-<tr>
-<td align="center">
+<tr style="border:none;">
+<td align="center" style="border:none;">
 
 <h2 align="center">🚀 AlphaCode_MusicPlayer</h2>
 
@@ -135,15 +135,15 @@
 </td>
 
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="border:none;">
 
-<table width="440" height="240" cellpadding="18" cellspacing="0" style="
-    border:none;
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
     border-collapse:collapse;
     background:transparent;
   ">
-<tr>
-<td align="center">
+<tr style="border:none;">
+<td align="center" style="border:none;">
 
 <h2 align="center">🚀 CodeAlpha_Image-Gallery</h2>
 
@@ -173,17 +173,17 @@
 
 </tr>
 
-<tr>
+<tr style="border:none;">
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="border:none;">
 
-<table width="440" height="240" cellpadding="18" cellspacing="0" style="
-    border:none;
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
     border-collapse:collapse;
     background:transparent;
   ">
-<tr>
-<td align="center">
+<tr style="border:none;">
+<td align="center" style="border:none;">
 
 <h2 align="center">🚀 CodeAlpha_Calculator</h2>
 
@@ -212,15 +212,15 @@
 </td>
 
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="border:none;">
 
-<table width="440" height="240" cellpadding="18" cellspacing="0" style="
-    border:none;
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
     border-collapse:collapse;
     background:transparent;
   ">
-<tr>
-<td align="center">
+<tr style="border:none;">
+<td align="center" style="border:none;">
 
 <h2 align="center">🚀 portfolio</h2>
 
