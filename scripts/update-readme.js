@@ -67,58 +67,68 @@ function escapeHtml(str = "") {
 }
 
 function buildCard(repo) {
-
   const lang = repo.language || "Other";
   const langColor = LANG_COLORS[lang] || "#8892B0";
   const stars = repo.stargazers_count ?? 0;
   const forks = repo.forks_count ?? 0;
 
   return `
-<table width="100%" cellpadding="18" cellspacing="0"
-style="border:1px solid #FF8E01;border-radius:12px;background:#0A1628;">
+<td width="50%" valign="top">
 
+<table width="100%" cellpadding="18" cellspacing="0" border="1">
 <tr>
 <td>
 
-<h2>🚀 ${repo.name}</h2>
+<h2 align="left">🚀 ${repo.name}</h2>
 
-<img src="https://img.shields.io/badge/●-${encodeURIComponent(lang)}-${langColor.replace("#","")}?style=flat-square"/>
-&nbsp;
+<hr>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/●-${encodeURIComponent(
+    lang
+  )}-${langColor.replace("#", "")}?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/⭐-${stars}-FF8E01?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🍴-${forks}-8892B0?style=flat-square"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/🍴-${forks}-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
 
 <a href="${repo.html_url}">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
 </td>
 </tr>
-
 </table>
+
+</td>
 `;
 }
 
 function buildSection(repos) {
-  const cards = repos.map(buildCard);
-
   let rows = "";
 
-  for (let i = 0; i < cards.length; i += 2) {
+  for (let i = 0; i < repos.length; i += 2) {
     rows += `
 <tr>
-<td width="50%" valign="top" style="padding:12px;">
-${cards[i] || ""}
-</td>
-
-<td width="50%" valign="top" style="padding:12px;">
-${cards[i + 1] || ""}
-</td>
+${buildCard(repos[i])}
+${repos[i + 1] ? buildCard(repos[i + 1]) : '<td width="50%"></td>'}
 </tr>
 `;
   }
+
+  return `<!--START_SECTION:projects-->
+## 🚀 Featured Projects
+
+<table width="100%" cellspacing="18" cellpadding="0">
+${rows}
+</table>
+<!--END_SECTION:projects-->`;
+}
 
   return `<!--START_SECTION:projects-->
 <div align="center">
