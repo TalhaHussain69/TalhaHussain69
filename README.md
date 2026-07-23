@@ -28,8 +28,8 @@
 <img src="https://img.shields.io/badge/LINKEDIN-0A1628?style=for-the-badge&logo=linkedinin&logoColor=FF8E01&labelColor=0A1628"/>
 </a>
 
-<a href="YOUR_WHATSAPP_LINK">
-<img src="https://img.shields.io/badge/WHATSAPP-0A1628?style=for-the-badge&logo=whatsapp&logoColor=FF8E01"/>
+<a href="https://wa.me/923092333121?text=Hi%20Salman%20Adeeb!%20👋%20I%20came%20across%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20like%20to%20connect%20and%20discuss%20about%20projects." target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-0A1628?style=for-the-badge&logo=whatsapp&logoColor=FF8E01"/>
 </a>
 
 <br/><br/>
