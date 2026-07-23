@@ -73,15 +73,15 @@ function buildCard(repo) {
   const forks = repo.forks_count ?? 0;
 
   return `
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="border:none;">
 
-<table width="440" height="240" cellpadding="18" cellspacing="0" style="
-    border:none;
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
     border-collapse:collapse;
     background:transparent;
   ">
-<tr>
-<td align="center">
+<tr style="border:none;">
+<td align="center" style="border:none;">
 
 <h2 align="center">🚀 ${repo.name}</h2>
 
@@ -118,7 +118,7 @@ function buildSection(repos) {
 
   for (let i = 0; i < repos.length; i += 2) {
     rows += `
-<tr>
+<tr style="border:none;">
 ${buildCard(repos[i])}
 ${repos[i + 1] ? buildCard(repos[i + 1]) : ""}
 </tr>
@@ -130,7 +130,7 @@ ${repos[i + 1] ? buildCard(repos[i + 1]) : ""}
 
 ## 🚀 Featured Projects
 
-<table align="center" cellspacing="18" cellpadding="0" style="border-collapse:separate; margin:0 auto;">
+<table align="center" cellspacing="18" cellpadding="0" border="0" style="border:none; border-collapse:separate; margin:0 auto;">
 ${rows}
 </table>
 
