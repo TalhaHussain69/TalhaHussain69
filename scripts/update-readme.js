@@ -13,7 +13,7 @@ const MAX_PROJECTS = 4; // how many repo cards to show
 const TOKEN = process.env.GITHUB_TOKEN;
 
 // Repos to always ignore (profile repo itself, forks, archived, etc.)
-const IGNORE_REPOS = [USERNAME.toLowerCase()]; // e.g. "adeebtechlab/adeebtechlab"
+const IGNORE_REPOS = [USERNAME.toLowerCase()]; // e.g. "talhahussain69/talhahussain69"
 
 // Small color map for common languages (used for the little dot next to language name)
 const LANG_COLORS = {
@@ -73,21 +73,21 @@ function buildCard(repo) {
   const forks = repo.forks_count ?? 0;
 
   return `
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<table width="100%" height="260" cellpadding="18" cellspacing="0"  style="
-    border:1px solid #30363d;
+<table width="440" height="240" cellpadding="18" cellspacing="0" style="
+    border:none;
     border-collapse:collapse;
     background:transparent;
   ">
 <tr>
-<td>
+<td align="center">
 
-<h2 align="left">🚀 ${repo.name}</h2>
+<h2 align="center">🚀 ${repo.name}</h2>
 
-<hr>
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/●-${encodeURIComponent(
     lang
@@ -126,11 +126,15 @@ ${repos[i + 1] ? buildCard(repos[i + 1]) : ""}
   }
 
   return `<!--START_SECTION:projects-->
+<div align="center">
+
 ## 🚀 Featured Projects
 
-<table width="100%" cellspacing="18" cellpadding="0"  style="border-collapse:separate;">
+<table align="center" cellspacing="18" cellpadding="0" style="border-collapse:separate; margin:0 auto;">
 ${rows}
 </table>
+
+</div>
 <!--END_SECTION:projects-->`;
 }
 
