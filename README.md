@@ -8,10 +8,6 @@
 
 <br/>
 
-<a href="https://www.blogger.com/profile/04238200063616843720">
-<img src="https://img.shields.io/badge/BLOGS-0A1628?style=for-the-badge&logo=blogger&logoColor=FF8E01"/>
-</a>
-
 <a href="https://www.linkedin.com/in/muhammad-talha-hussain-33939a3b7/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A1628?style=for-the-badge&logo=linkedinin&logoColor=FF8E01&labelColor=0A1628"/>
 </a>
