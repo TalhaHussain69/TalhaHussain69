@@ -95,6 +95,83 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
+<h2 align="center">🚀 Scientific-Calculator</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-TypeScript-3178c6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/TalhaHussain69/Scientific-Calculator">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
+<h2 align="center">🚀 AlarmApplication</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/TalhaHussain69/AlarmApplication">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr style="border:none;">
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
 <h2 align="center">🚀 AlphaCode_MusicPlayer</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
@@ -149,83 +226,6 @@
 <br>
 
 <a href="https://github.com/TalhaHussain69/CodeAlpha_Image-Gallery">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-<tr style="border:none;">
-
-<td width="50%" valign="top" align="center" style="border:none;">
-
-<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
-    border:none !important;
-    border-collapse:collapse;
-    background:transparent;
-  ">
-<tr style="border:none;">
-<td align="center" style="border:none;">
-
-<h2 align="center">🚀 CodeAlpha_Calculator</h2>
-
-<hr style="border:none; border-top:1px solid #30363d; width:80%;">
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
-
-</p>
-
-<br>
-
-<a href="https://github.com/TalhaHussain69/CodeAlpha_Calculator">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-
-<td width="50%" valign="top" align="center" style="border:none;">
-
-<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
-    border:none !important;
-    border-collapse:collapse;
-    background:transparent;
-  ">
-<tr style="border:none;">
-<td align="center" style="border:none;">
-
-<h2 align="center">🚀 portfolio</h2>
-
-<hr style="border:none; border-top:1px solid #30363d; width:80%;">
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
-
-</p>
-
-<br>
-
-<a href="https://github.com/TalhaHussain69/portfolio">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
