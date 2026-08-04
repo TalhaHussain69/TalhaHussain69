@@ -1,24 +1,24 @@
 <div align="center">
 
-<!-- Animated Header Banner - Deep Dark Navy -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=250&section=header&text=Muhammad%20Talha%20Hussain&fontSize=55&fontColor=FF8E01&animation=twinkling&desc=Student%20%7C%20Developer%20%7C%20Creativity&descAlignY=63&descSize=18&descColor=CCD6F6" width="100%"/>
+<!-- Animated Header Banner - Deep Violet -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0118,50:150726,100:0A0118&height=250&section=header&text=Muhammad%20Talha%20Hussain&fontSize=55&fontColor=A855F7&animation=twinkling&desc=Student%20%7C%20Developer%20%7C%20Creativity&descAlignY=63&descSize=18&descColor=E9D8FD" width="100%"/>
 
-<!-- Typing Animation - Orange Accent -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=FF8E01&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Talha+Hussain+%F0%9F%91%8B;Computer+Science+Student+%40+IUB;Learning+Web+Technologies" alt="Typing SVG"/>
+<!-- Typing Animation - Purple Accent -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Talha+Hussain+%F0%9F%91%8B;Computer+Science+Student+%40+IUB;Learning+Web+Technologies" alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/muhammad-talha-hussain-33939a3b7/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A1628?style=for-the-badge&logo=linkedinin&logoColor=FF8E01&labelColor=0A1628"/>
+<img src="https://img.shields.io/badge/LINKEDIN-1E0B33?style=for-the-badge&logo=linkedinin&logoColor=A855F7&labelColor=1E0B33"/>
 </a>
 
 <a href="https://wa.me/923203232069?text=Hi%20Muhammad%20Talha%20👋%20I%20came%20across%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20like%20to%20connect%20and%20discuss%20about%20projects." target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-0A1628?style=for-the-badge&logo=whatsapp&logoColor=FF8E01"/>
+  <img src="https://img.shields.io/badge/WHATSAPP-1E0B33?style=for-the-badge&logo=whatsapp&logoColor=A855F7"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=TalhaHussain69&label=Profile%20Views&color=0A1628&style=for-the-badge&labelColor=FF8E01"/>
+<img src="https://komarev.com/ghpvc/?username=TalhaHussain69&label=Profile%20Views&color=1E0B33&style=for-the-badge&labelColor=A855F7"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,50:050B18,100:000814&height=3&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0118,50:150726,100:0A0118&height=3&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -57,21 +57,21 @@
   
 ## 🛠️ Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,50:FF8E01,100:000814&height=4&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0118,50:A855F7,100:0A0118&height=4&animation=blinking" width="100%"/>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=60&bg=0A1628&shape=circle" title="HTML5" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=60&bg=0A1628&shape=circle" title="CSS3" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=60&bg=0A1628&shape=circle" title="JavaScript" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=git&size=60&bg=0A1628&shape=circle" title="Git" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=60&bg=0A1628&shape=circle&color=FF8E01" title="GitHub" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=60&bg=0A1628&shape=circle" title="Figma" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=androidstudio&size=60&bg=0A1628&shape=circle" title="Android Studio" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=kotlin&size=60&bg=0A1628&shape=circle" title="Kotlin" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=java&size=60&bg=0A1628&shape=circle" title="Java" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=60&bg=0A1628&shape=circle" title="Python" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=60&bg=1E0B33&shape=circle" title="HTML5" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=60&bg=1E0B33&shape=circle" title="CSS3" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=60&bg=1E0B33&shape=circle" title="JavaScript" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=git&size=60&bg=1E0B33&shape=circle" title="Git" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=60&bg=1E0B33&shape=circle&color=A855F7" title="GitHub" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=60&bg=1E0B33&shape=circle" title="Figma" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=androidstudio&size=60&bg=1E0B33&shape=circle" title="Android Studio" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=kotlin&size=60&bg=1E0B33&shape=circle" title="Kotlin" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=java&size=60&bg=1E0B33&shape=circle" title="Java" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=60&bg=1E0B33&shape=circle" title="Python" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,50:FF8E01,100:000814&height=4&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0118,50:A855F7,100:0A0118&height=4&animation=blinking" width="100%"/>
 </div>
 
 <br/>
@@ -103,16 +103,16 @@
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-0-A855F7?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-E9D8FD?style=flat-square"/>
 
 </p>
 
 <br>
 
 <a href="https://github.com/TalhaHussain69/Trading-Website">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1E0B33?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=1E0B33&color=1E0B33"/>
 </a>
 
 </td>
@@ -140,16 +140,16 @@
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-0-A855F7?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-E9D8FD?style=flat-square"/>
 
 </p>
 
 <br>
 
 <a href="https://github.com/TalhaHussain69/LMS">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1E0B33?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=1E0B33&color=1E0B33"/>
 </a>
 
 </td>
@@ -180,16 +180,16 @@
 
 <img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-0-A855F7?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-E9D8FD?style=flat-square"/>
 
 </p>
 
 <br>
 
 <a href="https://github.com/TalhaHussain69/Shope-Zone">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1E0B33?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=1E0B33&color=1E0B33"/>
 </a>
 
 </td>
@@ -217,16 +217,16 @@
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-0-A855F7?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-E9D8FD?style=flat-square"/>
 
 </p>
 
 <br>
 
 <a href="https://github.com/TalhaHussain69/Dashboard_intern">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1E0B33?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=1E0B33&color=1E0B33"/>
 </a>
 
 </td>
@@ -252,7 +252,7 @@
 <td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.shion.dev/api?username=TalhaHussain69&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=true"
+src="https://github-readme-stats.shion.dev/api?username=TalhaHussain69&bg_color=00000000&title_color=A855F7&text_color=E9D8FD&icon_color=A855F7&hide_border=true"
 width="100%"/>
 
 </td>
@@ -260,7 +260,7 @@ width="100%"/>
 <td align="center" width="50%">
 
 <img
-src="https://streak-stats.demolab.com/?user=TalhaHussain69&background=00000000&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0&hide_border=true"
+src="https://streak-stats.demolab.com/?user=TalhaHussain69&background=00000000&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=E9D8FD&currStreakNum=E9D8FD&sideNums=E9D8FD&dates=B794F6&hide_border=true"
 width="100%"/>
 
 </td>
@@ -272,7 +272,7 @@ width="100%"/>
 
 <p align="left">
   <img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=TalhaHussain69&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&hide_border=true&layout=compact&card_width=900"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=TalhaHussain69&bg_color=00000000&title_color=A855F7&text_color=E9D8FD&hide_border=true&layout=compact&card_width=900"
   width="90%" />
 </p>
 
@@ -281,20 +281,20 @@ width="100%"/>
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaHussain69&hide_border=true&bg_color=00000000&color=FF8E01&line=FF8E01&point=CCD6F6&area=true&area_color=FF8E01"
+src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaHussain69&hide_border=true&bg_color=00000000&color=A855F7&line=A855F7&point=E9D8FD&area=true&area_color=A855F7"
 width="90%"/>
 
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:050B18&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0118,100:150726&height=3" width="100%"/>
 
 ## 🐍 Contribution Snake
 
 <img width="100%" src="https://raw.githubusercontent.com/TalhaHussain69/TalhaHussain69/output/github-contribution-grid-snake-dark.svg"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,100:000814&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:150726,100:0A0118&height=3" width="100%"/>
 
 </div>
 
@@ -304,6 +304,6 @@ width="90%"/>
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FF8E01&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0118,50:150726,100:0A0118&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=A855F7&animation=twinkling" width="100%"/>
 
 </div>
