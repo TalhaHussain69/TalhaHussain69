@@ -103,16 +103,16 @@
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-0-2DD4BF?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-0-CCFBF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
 </p>
 
 <br>
 
 <a href="https://github.com/TalhaHussain69/Trading-Website">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F3D30?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=0F3D30&color=0F3D30"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
 </td>
@@ -140,16 +140,16 @@
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-0-2DD4BF?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-0-CCFBF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
 </p>
 
 <br>
 
 <a href="https://github.com/TalhaHussain69/LMS">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F3D30?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=0F3D30&color=0F3D30"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
 </td>
@@ -180,16 +180,16 @@
 
 <img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-0-2DD4BF?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-0-CCFBF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
 </p>
 
 <br>
 
 <a href="https://github.com/TalhaHussain69/Shope-Zone">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F3D30?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=0F3D30&color=0F3D30"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
 </td>
@@ -217,16 +217,16 @@
 
 <img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-0-2DD4BF?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-0-CCFBF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
 </p>
 
 <br>
 
 <a href="https://github.com/TalhaHussain69/Dashboard_intern">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F3D30?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=0F3D30&color=0F3D30"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
 </td>
