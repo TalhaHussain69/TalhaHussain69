@@ -95,7 +95,7 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 Talha-portfolio</h2>
+<h2 align="center">🚀 Client-portfolio</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
@@ -111,7 +111,7 @@
 
 <br>
 
-<a href="https://github.com/TalhaHussain69/Talha-portfolio">
+<a href="https://github.com/TalhaHussain69/Client-portfolio">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
@@ -132,7 +132,7 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 Client-portfolio</h2>
+<h2 align="center">🚀 Talha-portfolio</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
@@ -148,7 +148,7 @@
 
 <br>
 
-<a href="https://github.com/TalhaHussain69/Client-portfolio">
+<a href="https://github.com/TalhaHussain69/Talha-portfolio">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
